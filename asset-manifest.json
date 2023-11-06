@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MernCalculator/static/css/main.e6c13ad2.css",
+    "main.js": "/MernCalculator/static/js/main.f5bfffcf.js",
+    "static/js/787.04baedd0.chunk.js": "/MernCalculator/static/js/787.04baedd0.chunk.js",
+    "index.html": "/MernCalculator/index.html",
+    "main.e6c13ad2.css.map": "/MernCalculator/static/css/main.e6c13ad2.css.map",
+    "main.f5bfffcf.js.map": "/MernCalculator/static/js/main.f5bfffcf.js.map",
+    "787.04baedd0.chunk.js.map": "/MernCalculator/static/js/787.04baedd0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f5bfffcf.js"
+  ]
+}
